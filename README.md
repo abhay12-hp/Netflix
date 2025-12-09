@@ -1,8 +1,8 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://bankole2000.github.io/netflix)
+Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://github.com/abhay12-hp/netflix)
 
-[![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)]()
+[![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://github.com/abhay12-hp/Netflix.git)
 
 _<p align="center">"Eating website for fun... nyom nyom nyom"</p>_
 
